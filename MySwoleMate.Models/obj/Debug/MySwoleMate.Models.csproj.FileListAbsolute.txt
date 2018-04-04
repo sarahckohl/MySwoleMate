@@ -1,0 +1,4 @@
+c:\users\joon\documents\visual studio 2015\Projects\MySwoleMate-Starter\MySwoleMate.Models\bin\Debug\MySwoleMate.Models.dll
+c:\users\joon\documents\visual studio 2015\Projects\MySwoleMate-Starter\MySwoleMate.Models\bin\Debug\MySwoleMate.Models.pdb
+c:\users\joon\documents\visual studio 2015\Projects\MySwoleMate-Starter\MySwoleMate.Models\obj\Debug\MySwoleMate.Models.dll
+c:\users\joon\documents\visual studio 2015\Projects\MySwoleMate-Starter\MySwoleMate.Models\obj\Debug\MySwoleMate.Models.pdb
