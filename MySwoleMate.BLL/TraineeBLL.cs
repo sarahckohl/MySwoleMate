@@ -21,6 +21,18 @@ namespace MySwoleMate.BLL
             data = new TraineeDAL(connectionString);
         }
 
+        private string heightDisplay(int height){
+            return $"{height/12} ft. {height%12} in.";
+        }
+
+        private string PhoneDisplay(string rawNumber){
+            StringBuilder hyphenatedNumber = rawNumber;
+            hyphenatedNumber.insert("-", 2);
+            hyphenatedNumber.insert("-", 5);
+            hyphenatedNumber.insert("-", 8);
+            return hyphenatedNumber.toString();
+        }
+
         //Gets all Trainees in a List of TraineeViewModel
         public List<TraineeViewModel> GetAllTrainees()
         {
